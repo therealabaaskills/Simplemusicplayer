@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Simple music player</string>
+    <string name="current_position">00:00</string>
+    <string name="song_duration">00:00</string>
+    <string name="home_button">Home</string>
+    <string name="library_btn">Playlist</string>
+    <string name="fav_border">Favorites</string>
+</resources>
